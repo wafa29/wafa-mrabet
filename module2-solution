@@ -1,0 +1,65 @@
+<!doctype html>
+ <html>
+   <head>
+     <meta charset="utf-8">
+     <title> assignment solution for module 2 </title>
+	 <style>
+    h1 { text-align: center; }
+    div { padding: 60px; 
+	position: relative; }	
+	p { border: 1px solid black;
+		 float: left; 
+		 margin-right: 10px;
+         padding: 10px; 		 
+	   } 
+	 #p1 { width: 7%;
+	 background: pink;
+	       position: absolute;
+	       top: 60px;
+		   left: 20.29%; 
+		   text-align: center;}
+	 #p2 { padding-top: 40px;
+	 width: 25%;
+	       background: gray;}
+	 #p3 { width: 7%;
+	 background: red;
+      position: relative;
+      top: 0px; 
+      left: 27.57%	
+       	  }
+	 #p4 { padding-top: 40px; 
+	 width: 25%;
+	 background: gray; }
+	 #p5 { padding-top: 40px;
+	 width: 25%;
+	 background: gray;
+	 position: relative;
+     top: 0px;
+	 left: 9%;	 }
+	 #p6 { width: 7%;
+	 background: yellow;
+	 position: relative;
+	bottom: 192px; 
+	 left: 91.8%;
+     	  } 
+	
+	 </style> 
+   </head>
+   <body>
+     <h1> our menu </h1>
+      <div>   
+        <p Id="p1">chiken</p>
+        <p id="p2">lorem ipsum dolor sit amet , consectetur adispisicing elit , 
+		sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+		Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  </p>
+        <p id="p3">beef</p> 
+        <p id="p4">lorem ipsum dolor sit amet , consectetur adispisicing elit , 
+		sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+		Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+        <p id="p5">lorem ipsum dolor sit amet , consectetur adispisicing elit , 
+		sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+		Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+        <p id="p6">suchi </p>		
+      </div> 		
+   </body>
+ </html>
